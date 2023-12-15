@@ -2,27 +2,16 @@
 #include<stdio.h>
 main()
 {
-	int i,s=0;
+	int i;
 	char a[10];
-	char rev[10];
 	
 	printf("Enter A String : ");
 	scanf("%s",&a);
+	
+	int len = strlen(a);
 		
-	for(i=0; i<=a[i]; i++)
+	for(i=len-1; i>=0; i--)
 	{
-		s++;
+		printf("%c",a[i]);
 	}
-	
-	printf("%d",s);
-	
-	for(i=0; i<=s; i++)
-	{
-		rev[i]= a[s];
-		s--;
-		
-	}
-	
-	printf("%s",rev);
 }
-
