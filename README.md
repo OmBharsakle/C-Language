@@ -320,3 +320,283 @@
 <a href="https://github.com/OmBharsakle/C-Language/blob/main/07.%20Momentum/5.c">→ Click Here Go To Answer.</a>
 
 ###
+
+<h2 align="left">8. Looping</h2>
+
+###
+
+<h4 align="left">1. WAP To Find leap Year From 2000 to 3000 Using While Loop.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/08.%20Looping/Lecture%201%20-%20Lab%20Work/07.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">2. WAP To Demonstrate The Use Of Break Keywords.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/08.%20Looping/Lecture%204%20-%20Lab%20Work%20(%20Break%2C%20Continue%2C%20And%20Goto%20)/1.c">→ Click Here Go To Answer.</a>
+
+###
+
+
+<h4 align="left">3. WAP To Demonstrate The Use Of Continue Keyword.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/08.%20Looping/Lecture%204%20-%20Lab%20Work%20(%20Break%2C%20Continue%2C%20And%20Goto%20)/2.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">4. WAP To Find The Any Number Factorial Without A Loop. ( Using A goto Statement ).</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/08.%20Looping/Lecture%204%20-%20Lab%20Work%20(%20Break%2C%20Continue%2C%20And%20Goto%20)/3.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">5. WAP To Find The Sum Of Any Nmbers Using The goto Statement.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/08.%20Looping/Lecture%204%20-%20Lab%20Work%20(%20Break%2C%20Continue%2C%20And%20Goto%20)/4.c">→ Click Here Go To Answer.</a>
+
+###
+<h4 align="left">6. WAP To Find The Sum Of Prime Numbers Between 1 to 50 Without Using a Loop.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/08.%20Looping/Lecture%204%20-%20Lab%20Work%20(%20Break%2C%20Continue%2C%20And%20Goto%20)/5.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h2 align="left">9. Temperate</h2>
+
+###
+
+<h4 align="left">1. Write C Program To Count Number Of Digits In a Number.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/09.%20Temperate/03.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">2. Write C Program To Find Sum Of First And last Digit Of a Number.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/09.%20Temperate/04.c">→ Click Here Go To Answer.</a>
+
+###
+
+
+<h4 align="left">3. Wap To Reverse Number Of Given Number.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/09.%20Temperate/07.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">4. Wap To Check Number Is Palindrom Or Not.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/09.%20Temperate/08.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">5. Wap To Find Sum Of Even Number Between 1 to 28.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/09.%20Temperate/09.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h2 align="left">10. Looping With Pattern</h2>
+
+###
+
+<h4 align="left">1. Lecture 1 - Lab Work Answere's.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/tree/main/10.%20Looping%20With%20Pattern/Lecture%201%20-%20Lab%20Work">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">2. Lecture 2 - Lab Work ( With Space )</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/tree/main/10.%20Looping%20With%20Pattern/Lecture%202%20-%20Lab%20Work%20(%20With%20Space%20)">→ Click Here Go To Answer.</a>
+
+###
+
+
+<h4 align="left">3. Lecture 3 - Lab Work ( Custom Patterns )</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/tree/main/10.%20Looping%20With%20Pattern/Lecture%203%20-%20Lab%20Work%20(%20Custom%20Patterns%20)">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">4. A To Z ( Custom Patterns )</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/tree/main/10.%20Looping%20With%20Pattern/Lecture%203%20-%20Lab%20Work%20(%20Custom%20Patterns%20)/A%20To%20Z%20%20(%20Custom%20Patterns%20)">→ Click Here Go To Answer.</a>
+
+###
+
+<h2 align="left">11. Circlet</h2>
+
+###
+
+<h4 align="left">1. ALL PDF Answere.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/tree/main/11.%20Circlet">→ Click Here Go To Answer.</a>
+
+###
+
+<h2 align="left">13. Assortment</h2>
+
+###
+
+<h4 align="left">1. WAP To Get The Array And Count & Remove All Duplicate Values In The Array.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/13.%20Assortment/01.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">2. Write A Program In C To Count The Frequency Of Each Element Of An Array.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/13.%20Assortment/03.c">→ Click Here Go To Answer.</a>
+
+###
+
+
+<h4 align="left">3. Write A Program In C To Find A Pair Of Target Value Given By User.
+</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/13.%20Assortment/06.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">4. Write a C Program To Find The Largest Number In Array.[2D]</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/13.%20Assortment/07.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">5. Wap To Find The Reverse Array Without Using Another Array.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/13.%20Assortment/08.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h2 align="left">14. String In Details</h2>
+
+###
+
+<h4 align="left">1. WAP To Convert Given String In Lowercase.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%201%20-%20Lab%20Work/01.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">2. WAP To Convert Given String In Uppercase.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%201%20-%20Lab%20Work/02.c">→ Click Here Go To Answer.</a>
+
+###
+
+
+<h4 align="left">3. WAP To Given String Length.
+</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%201%20-%20Lab%20Work/03.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">4. WAP to given string in reverse.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%201%20-%20Lab%20Work/04.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">5. WAP To Convert Given String In Toggal Case.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%201%20-%20Lab%20Work/05.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">6. WAP to convert given string in Title Case.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%201%20-%20Lab%20Work/06.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">7. Write C Program To Count Frequency Of Each Character In A String.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%202%20-%20Lab%20Work/01.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">8. Write C Program To Check Whether A String Is Palindrome Or Not.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%202%20-%20Lab%20Work/02.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">9. Write C Program To Remove Spaces, Blanks From A String.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%202%20-%20Lab%20Work/03.c">→ Click Here Go To Answer.</a>
+
+###
+
+<h4 align="left">10. Write C Program To Remove All Repeated Characters In A String.</h4>
+
+###
+
+<a href="https://github.com/OmBharsakle/C-Language/blob/main/14.%20String%20In%20Details/Lecture%202%20-%20Lab%20Work/04.c">→ Click Here Go To Answer.</a>
+
+###
+
+ 
