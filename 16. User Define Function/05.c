@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
-{
+{ 
 	int n,n1,n2;
 	
 	printf("Press 1 for + \nPress 2 for - \nPress 3 for *\nPress 4 for / \nPress 5 for %% \nPress 0 For The Exit\n");
