@@ -8,7 +8,7 @@
 ![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6NY3W4RM-MDy2kfQVejr0drz3Q745wrMNM3URgzQRb2w3u6OXSJpQe616dLfY6IOG_Bkf1bi0YhcM2VFe6d1iO4nizje88gTci0ZWk-kJsInDJqzfP4I9xzRGuJ6yaAE2RL8SzqwseDQAZZ2oYpikR3mDshnr4ymYidugxz0TymbsjaZJDZVwh8hlUg/s16000/Purple%20Modern%20Professional%20Web%20Designer%20LinkedIn%20Banner%20(3).jpg)
 
 </div>
-
+ 
 ###
 
 <p align="center">C language lab work answers are solutions to programming exercises typically assigned to students in a C programming course. These answers help students learn and practice the concepts covered in the course.I hope this is helpful! Let me know if you have any other questions.</p>
