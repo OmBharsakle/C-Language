@@ -10,7 +10,7 @@ main()
 	scanf("%d",&b);
 	printf("Enter The Value Of C : ");
 	scanf("%d",&c);
-	printf("Enter The Value Of C : ");
+	printf("Enter The Value Of D : ");
 	scanf("%d",&d);
 	
 	
@@ -21,7 +21,7 @@ main()
 		if(a>c)
 		{
 			//a,d
-			if(a>b)
+			if(a>d)
 			{
 				printf("A Is Maximum");
 			}
